@@ -63,5 +63,6 @@ class LinkedList
             *previous = *current;
             *current = (*current)->next;
         }
+        return (*current != NULL);
     }
 };
