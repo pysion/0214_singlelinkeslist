@@ -65,4 +65,8 @@ class LinkedList
         }
         return (*current != NULL);
     }
+    
+    bool delNode(int nim) {
+       
+    }
 };
