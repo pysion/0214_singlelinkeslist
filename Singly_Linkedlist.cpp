@@ -80,5 +80,7 @@ class LinkedList
         return true;
     }
     
-   
+    void traverse() {
+     
+    }
 };
