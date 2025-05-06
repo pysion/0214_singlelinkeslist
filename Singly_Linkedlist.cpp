@@ -13,5 +13,14 @@ class LinkedList
 {
     Node *START;
 
-    
+    void addNode()
+    {
+        int nim;
+        cout << "\nMasukakan Nomor Mahasiswa: ";
+        cin >> nim;
+
+        Node *nodeBaru = new Node;
+        nodeBaru->noMhs = nim;
+
+       
 };
