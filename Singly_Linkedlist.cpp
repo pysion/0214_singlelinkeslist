@@ -10,3 +10,7 @@ struct Node {
 //set value START = NULL
 Node *START = NULL;
 
+//membuat prosedur addnode()
+void addNode() {
+    
+}
